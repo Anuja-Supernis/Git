@@ -2,7 +2,7 @@ package com.example;
 import java.util.Arrays;
 import java.util.Scanner;
 
-class Program {
+public class Program {
 		
 		private static Scanner sc = new Scanner(System.in);
 		private static <Array> void acceptRecord(int arr[]) {
